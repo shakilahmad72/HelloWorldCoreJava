@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/ArrayChallenge/ArrayChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraysProject/ArraysProject.iml" filepath="$PROJECT_DIR$/ArraysProject/ArraysProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringFormatting/StringFormatting.iml" filepath="$PROJECT_DIR$/StringFormatting/StringFormatting.iml" />
       <module fileurl="file://$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" filepath="$PROJECT_DIR$/TheObjectClass/TheObjectClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingArrays/UsingArrays.iml" filepath="$PROJECT_DIR$/UsingArrays/UsingArrays.iml" />
     </modules>
   </component>
 </project>
