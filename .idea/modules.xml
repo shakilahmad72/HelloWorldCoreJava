@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArraysProject/ArraysProject.iml" filepath="$PROJECT_DIR$/ArraysProject/ArraysProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" filepath="$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" filepath="$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
