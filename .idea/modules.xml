@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" filepath="$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" filepath="$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" />
