@@ -1,5 +1,6 @@
 package dev.lpa;
 
+import dev.lpa.model.LPAStudent;
 import dev.lpa.model.Student;
 
 import java.util.ArrayList;
@@ -15,6 +16,12 @@ public class Main {
             students.add(new Student());
         }
         printList(students);
+
+        List<LPAStudent> lpaStudents = new ArrayList<>();
+        for (int i = 0; i < studentCount; i++) {
+            lpaStudents.add(new LPAStudent());
+        }
+        printList(lpaStudents);
     }
 
     public static void printList(List<Student> students) {
