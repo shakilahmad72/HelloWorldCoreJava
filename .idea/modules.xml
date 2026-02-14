@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" filepath="$PROJECT_DIR$/ClassesPart1/ClassesPart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparing/Comparing.iml" filepath="$PROJECT_DIR$/Comparing/Comparing.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/CompositionChallenge/CompositionChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComputerFactory/ComputerFactory.iml" filepath="$PROJECT_DIR$/ComputerFactory/ComputerFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
@@ -22,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/EnumProject/EnumProject.iml" filepath="$PROJECT_DIR$/EnumProject/EnumProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" filepath="$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" filepath="$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" filepath="$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" />

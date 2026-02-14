@@ -30,6 +30,5 @@ public class Main {
                         "42.2026, -75.00836", "39.4955, -75.5592"));
 
         riverLayer.renderLayer();
-
     }
 }
