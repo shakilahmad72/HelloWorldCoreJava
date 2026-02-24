@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interface/Interfaces.iml" filepath="$PROJECT_DIR$/Interface/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" filepath="$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClass/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClass/NestedClasses.iml" />
