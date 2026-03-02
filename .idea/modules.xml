@@ -29,11 +29,13 @@
       <module fileurl="file://$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" filepath="$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interface/Interfaces.iml" filepath="$PROJECT_DIR$/Interface/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" filepath="$PROJECT_DIR$/LambdaExpressionChallenge/LambdaExpressionChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" filepath="$PROJECT_DIR$/LambdaExpressions/LambdaExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" filepath="$PROJECT_DIR$/LambdaIntro/LambdaIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" filepath="$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" filepath="$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" />
