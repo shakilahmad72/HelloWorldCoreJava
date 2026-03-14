@@ -27,11 +27,14 @@
       <module fileurl="file://$PROJECT_DIR$/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/EnumCollections/EnumCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumProject/EnumProject.iml" filepath="$PROJECT_DIR$/EnumProject/EnumProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalExplored/FinalExplored.iml" filepath="$PROJECT_DIR$/FinalExplored/FinalExplored.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" filepath="$PROJECT_DIR$/GenericClassChallenge/GenericClassChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" filepath="$PROJECT_DIR$/GenericsExtra/GenericsExtra.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImmutableChallenges/ImmutableChallenges.iml" filepath="$PROJECT_DIR$/ImmutableChallenges/ImmutableChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImmutableClasses/ImmutableClasses.iml" filepath="$PROJECT_DIR$/ImmutableClasses/ImmutableClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" filepath="$PROJECT_DIR$/InhertanceChallenge/InhertanceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" filepath="$PROJECT_DIR$/InterfaceChallenge/InterfaceChallenge.iml" />
