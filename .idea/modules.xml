@@ -48,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" filepath="$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" filepath="$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" filepath="$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" />
@@ -57,6 +58,7 @@
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomChallenge/RandomChallenge.iml" filepath="$PROJECT_DIR$/RandomChallenge/RandomChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetOperationsChallenge/SetOperationsChallenge.iml" filepath="$PROJECT_DIR$/SetOperationsChallenge/SetOperationsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" />
