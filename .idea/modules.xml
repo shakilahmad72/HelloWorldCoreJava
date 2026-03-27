@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArraysProject/ArraysProject.iml" filepath="$PROJECT_DIR$/ArraysProject/ArraysProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Autoboxing/Autoboxing.iml" filepath="$PROJECT_DIR$/Autoboxing/Autoboxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" filepath="$PROJECT_DIR$/AutoboxingChallenge/AutoboxingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDecimal/BigDecimal.iml" filepath="$PROJECT_DIR$/BigDecimal/BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" filepath="$PROJECT_DIR$/BillsBurgerChallenge/BillsBurgerChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainingLambdas/ChainingLambdas.iml" filepath="$PROJECT_DIR$/ChainingLambdas/ChainingLambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" filepath="$PROJECT_DIR$/ClassesChallenge/ClassesChallenge.iml" />
