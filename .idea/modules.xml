@@ -25,6 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/ComputerFactory/ComputerFactory.iml" filepath="$PROJECT_DIR$/ComputerFactory/ComputerFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorsProject/ConstructorsProject.iml" filepath="$PROJECT_DIR$/ConstructorsProject/ConstructorsProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" filepath="$PROJECT_DIR$/CopyingClasses/CopyingClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimeLocalizationProject/DateTimeLocalizationProject.iml" filepath="$PROJECT_DIR$/DateTimeLocalizationProject/DateTimeLocalizationProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimeProject/DateTimeProject.iml" filepath="$PROJECT_DIR$/DateTimeProject/DateTimeProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/EnumCollections/EnumCollections.iml" />
@@ -49,11 +51,13 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" filepath="$PROJECT_DIR$/LinkedListChallenge/LinkedListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" filepath="$PROJECT_DIR$/LocalClassChallenge/LocalClassChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocaleProject/LocaleProject.iml" filepath="$PROJECT_DIR$/LocaleProject/LocaleProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" filepath="$PROJECT_DIR$/MathRandomProject/MathRandomProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" filepath="$PROJECT_DIR$/MethodReferenceChallenge/MethodReferenceChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodReferences/MethodReferences.iml" filepath="$PROJECT_DIR$/MethodReferences/MethodReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" filepath="$PROJECT_DIR$/MiniLambdaChallenges/MiniLambdaChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" filepath="$PROJECT_DIR$/MinimumElementChallenge/MinimumElementChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoreTime/MoreTime.iml" filepath="$PROJECT_DIR$/MoreTime/MoreTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" filepath="$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClass/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClass/NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
@@ -61,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/RandomChallenge/RandomChallenge.iml" filepath="$PROJECT_DIR$/RandomChallenge/RandomChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecordProject/RecordProject.iml" filepath="$PROJECT_DIR$/RecordProject/RecordProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceBundleProject/ResourceBundleProject.iml" filepath="$PROJECT_DIR$/ResourceBundleProject/ResourceBundleProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetOperationsChallenge/SetOperationsChallenge.iml" filepath="$PROJECT_DIR$/SetOperationsChallenge/SetOperationsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/SetsAndMaps/SetsAndMaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortedMaps/SortedMaps.iml" filepath="$PROJECT_DIR$/SortedMaps/SortedMaps.iml" />
