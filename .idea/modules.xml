@@ -31,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" filepath="$PROJECT_DIR$/EncapsulationChallenge/EncapsulationChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumCollections/EnumCollections.iml" filepath="$PROJECT_DIR$/EnumCollections/EnumCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnumProject/EnumProject.iml" filepath="$PROJECT_DIR$/EnumProject/EnumProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileAndPath/FileAndPath.iml" filepath="$PROJECT_DIR$/FileAndPath/FileAndPath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExceptions/FileExceptions.iml" filepath="$PROJECT_DIR$/FileExceptions/FileExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" filepath="$PROJECT_DIR$/FinalCollectionsChallenge/FinalCollectionsChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/FinalExplored/FinalExplored.iml" filepath="$PROJECT_DIR$/FinalExplored/FinalExplored.iml" />
       <module fileurl="file://$PROJECT_DIR$/GameConsole/GameConsole.iml" filepath="$PROJECT_DIR$/GameConsole/GameConsole.iml" />
@@ -62,6 +64,7 @@
       <module fileurl="file://$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" filepath="$PROJECT_DIR$/MultipleArrays/MultipleArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/NestedClass/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClass/NestedClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Packages/Packages.iml" filepath="$PROJECT_DIR$/Packages/Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PathListings/PathListings.iml" filepath="$PROJECT_DIR$/PathListings/PathListings.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatternMatching/PatternMatching.iml" filepath="$PROJECT_DIR$/PatternMatching/PatternMatching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" filepath="$PROJECT_DIR$/PolymorphismChallenge/PolymorphismChallenge.iml" />
